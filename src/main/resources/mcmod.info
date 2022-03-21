@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rcseffect",
+  "name": "RC`s Effect",
+  "description": "A mod that make your map awesome",
+  "version": "Release-1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RC_diamond_GH"],
+  "credits": "114514",
+  "logoFile": "RC`s Effect.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
